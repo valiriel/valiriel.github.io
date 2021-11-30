@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yacob Haddou"
-  avatar           : "profile.png"
+  avatar           : "files/profile_phot-less1MBo.jpg"
   bio              : "R, Stats, GIS, epidemiology & ecological delays following landscape disturbance"
   location         : "Glasgow, Scotland"
   employer         : PhD @ University og Glasgow
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://valiriel.github.io/"
+  github           : "valiriel"
   google_plus      :
   keybase          :
   instagram        :
