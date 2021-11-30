@@ -81,10 +81,10 @@ analytics:
 # Site Author
 author:
   name             : "Yacob Haddou"
-  avatar           : "files/profile_phot-less1MBo.jpg"
+  avatar           : "profile_phot-less1MBo.jpg"
   bio              : "R, Stats, GIS, epidemiology & ecological delays following landscape disturbance"
   location         : "Glasgow, Scotland"
-  employer         : PhD @ University og Glasgow
+  employer         : PhD @ University of Glasgow
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "yacob.haddou@glasgow.ac.uk"
