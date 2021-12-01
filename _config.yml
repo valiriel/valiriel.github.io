@@ -1,9 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
 locale                   : "en-GB"
@@ -11,7 +5,7 @@ title                    : "Yacob Haddou"
 title_separator          : "-"
 name                     : &name "Yacob Haddou"
 description              : &description "R, Stats, GIS, epidemiology & ecological delays following landscape disturbance"
-url                      : https://valiriel.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://valiriel.github.io/ # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://valiriel.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +75,8 @@ analytics:
 # Site Author
 author:
   name             : "Yacob Haddou"
-  avatar           : "profile_phot-less1MBo.jpg"
-  bio              : "R, Stats, GIS, epidemiology & ecological delays following landscape disturbance"
+  avatar           : "profile_photo.jpg"
+  bio              : "Quantitative ecologist, R, Stats, GIS, epidemiology & biodiversity delays following landscape disturbance"
   location         : "Glasgow, Scotland"
   employer         : PhD @ University of Glasgow
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
